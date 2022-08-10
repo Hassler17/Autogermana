@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Autogermana/static/css/main.073c9b0a.css",
+    "main.js": "/Autogermana/static/js/main.104b7124.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Autogermana/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Autogermana/index.html",
+    "main.073c9b0a.css.map": "/Autogermana/static/css/main.073c9b0a.css.map",
+    "main.104b7124.js.map": "/Autogermana/static/js/main.104b7124.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Autogermana/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.104b7124.js"
+  ]
+}
